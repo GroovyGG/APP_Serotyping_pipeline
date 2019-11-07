@@ -9,6 +9,7 @@ Author of the code is Bihan Zhu
 
 # Related Papers
 RSRT2:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4237778/
+RSRT2 Repository: https://github.com/katholt/srst2
 SsuisSerotyping pipeline:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4957933/
 Actinobacillus Pleuropneumoniae Serotyping:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6008488/
 
